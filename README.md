@@ -1,8 +1,8 @@
 Resources: https://www.codedex.io/projects/create-a-gif-with-python
 
-##Prerequisites 
-install imageio library using:
-pip install imageio
+## Prerequisites <br/>
+install imageio library using:<br/>
+pip install imageio<br/>
 
-or 
-pip3 install imageio
+or <br/>
+pip3 install imageio<br/>
